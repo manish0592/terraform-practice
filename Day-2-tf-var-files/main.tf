@@ -3,5 +3,6 @@ resource "aws_instance" "tf-instance" {
     instance_type = var.instance_type
     tags = {
         Name = "Tfinstance"
+ 
     }
 }
