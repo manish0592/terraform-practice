@@ -1,4 +1,3 @@
-
 # 🧰 Git Basics – Commonly Used Commands
 
 This file contains a quick and clear reference of essential Git commands for version controlling your project.
@@ -118,19 +117,18 @@ nano .gitignore
 ---
 
 ## 📝 Summary of Commands
-
+|----------------------------------------------------------------------------|
 | Command                    | Description                                   |
 |----------------------------|-----------------------------------------------|
-| `git init`                | Initialize a new Git repository               |
-| `git clone <repo-url>`    | Clone a remote repo to local                  |
-| `git status`              | Check file change status                      |
-| `git add <file>`          | Stage a specific file                         |
-| `git add .`               | Stage all modified/added files                |
-| `git commit -m "msg"`     | Commit staged files with a message            |
-| `git push`                | Push local commits to GitHub                  |
-| `git pull`                | Pull latest changes from GitHub               |
-| `.gitignore`              | File to specify which files Git should ignore|
-
----
+| `git init`                | Initialize a new Git repository                |
+| `git clone <repo-url>`    | Clone a remote repo to local                   |
+| `git status`              | Check file change status                       |
+| `git add <file>`          | Stage a specific file                          |
+| `git add .`               | Stage all modified/added files                 |
+| `git commit -m "msg"`     | Commit staged files with a message             |
+| `git push`                | Push local commits to GitHub                   |
+| `git pull`                | Pull latest changes from GitHub                |
+| `.gitignore`              | File to specify which files Git should ignore  |
+|----------------------------------------------------------------------------|
 
 > 📘 Tip: Always use meaningful commit messages and pull the latest changes before pushing to avoid conflicts.
