@@ -135,7 +135,7 @@ nano .gitignore
 
 ## 👤 Author
 **Manish Singh**
-Created for learning and hands-on practice with AWS + Terraform.
+— Created for learning and hands-on practice with AWS + Terraform.
 
 ---
 Happy Learning!

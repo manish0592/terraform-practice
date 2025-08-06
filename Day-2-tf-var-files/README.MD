@@ -74,7 +74,7 @@ This Terraform project provisions a single AWS EC2 instance using input variable
 
 ## 👤 Author
 **Manish Singh**
-Created for learning and hands-on practice with AWS + Terraform.
+— Created for learning and hands-on practice with AWS + Terraform.
 
 ---
 Happy Learning!
