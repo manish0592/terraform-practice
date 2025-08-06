@@ -1,4 +1,4 @@
-# 🚀 Terraform AWS EC2 Provisioning
+# 🚀 Terraform Provisioning & files used
 
 This repository contains a basic Terraform configuration for provisioning an EC2 instance on AWS using modular, reusable, and declarative code.
 
