@@ -54,11 +54,7 @@ It is intended as a beginner’s exercise using Terraform with AWS.
 
 ## 👤 Author
 **Manish Singh**
-Created for learning and hands-on practice with AWS + Terraform.
-
-## 👤 Author
-**Manish Singh**
-Created for learning and hands-on practice with AWS + Terraform.
+— Created for learning and hands-on practice with AWS + Terraform.
 
 ---
 Happy Learning!
