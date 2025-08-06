@@ -132,3 +132,10 @@ nano .gitignore
 |----------------------------------------------------------------------------|
 
 > 📘 Tip: Always use meaningful commit messages and pull the latest changes before pushing to avoid conflicts.
+
+## 👤 Author
+**Manish Singh**
+Created for learning and hands-on practice with AWS + Terraform.
+
+---
+Happy Learning!

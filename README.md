@@ -166,4 +166,9 @@ terraform destroy
 
 ---
 
-> Maintained by Manish Singh
+## 👤 Author
+**Manish Singh**
+Created for learning and hands-on practice with AWS + Terraform.
+
+---
+Happy Learning!
